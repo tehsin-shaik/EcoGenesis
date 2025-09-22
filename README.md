@@ -108,16 +108,10 @@ This project is part of an educational initiative. For contributions:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is created for educational purposes. Please respect the educational nature of this work and UAE's environmental awareness goals.
-
 ## 🌟 Acknowledgments
 
-- UAE environmental scientists and researchers
-- Unity Technologies for the game engine
-- StarterAssets for the first-person controller foundation
-- OpenAI for AI companion functionality
+- Dr. Jamal Zemerly
+- Dr. Lamees Alqasem
 
 ---
 
