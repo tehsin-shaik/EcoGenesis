@@ -18,6 +18,8 @@
 - **Pollution Collection**: Find and clean up 15 pieces of pollution in each area
 - **Hydrogen Fuel System**: Collect sustainable hydrogen fuel from sand and mountain sources
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/abf717a6-b618-4974-8129-de2b3657e60b" />
+
 ### Technical Features
 - **First-Person Controller**: Smooth movement and interaction system
 - **Inventory Management**: Track collected items and resources
