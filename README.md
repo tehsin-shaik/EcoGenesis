@@ -3,6 +3,8 @@
 [![Unity Version](https://img.shields.io/badge/Unity-2022.3%20LTS-blue.svg)](https://unity3d.com/get-unity/download)
 [![Platform](https://img.shields.io/badge/Platform-PC-green.svg)]()
 
+<img width="1015" height="762" alt="image" src="https://github.com/user-attachments/assets/fab781e5-10d1-4a4b-8b1a-ebe2bad0eaa2" />
+
 ## 🌍 Overview
 
 **EcoGenesis** is an immersive environmental restoration game set in a near-future UAE where players take on the role of an environmental restoration specialist. Working alongside ECHO, an AI companion, players must restore three vital ecosystems that have been damaged by pollution and industrial waste.
