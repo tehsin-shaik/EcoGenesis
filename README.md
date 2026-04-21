@@ -1,3 +1,5 @@
+
+
 # EcoGenesis
 
 [![Unity Version](https://img.shields.io/badge/Unity-2022.3%20LTS-blue.svg)](https://unity3d.com/get-unity/download)
@@ -113,6 +115,37 @@ This project is part of an educational initiative. For contributions:
 - Dr. Jamal Zemerly
 - Dr. Lamees Alqasem
 
+## 📸 Screenshots
+
+### Main Menu
+![Main Menu](Assets/Images/ecogenesis-main-menu.png)
+
+### City Biome
+![City Biome](Assets/Images/city-biome.png)
+
+### Inventory & Crafting
+![Inventory System](Assets/Images/inventory.png)
+
+### AI Behaviour / Wildlife
+![AI Behaviour](Assets/Images/ai-behaviour.png)
+
+
+## 📸 Screenshots
+
+### City Scene
+![City Scene](Assets/Images/city-scene.png)
+
+
+
+### Inventory & Crafting
+![Inventory System](Assets/Images/inventory.png)
+
+### AI Behaviour / Wildlife
+![AI Behaviour](Assets/Images/ai-behaviour.png)
 ---
 
+
 *EcoGenesis - Restoring our world, one ecosystem at a time* 🌱
+
+
+im gonna add Assets/Images/ecogenesis-main-menu.png and Assets/Images/city-biome.png
