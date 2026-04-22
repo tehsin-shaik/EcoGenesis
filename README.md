@@ -129,19 +129,6 @@ This project is part of an educational initiative. For contributions:
 ### AI Behaviour / Wildlife
 ![AI Behaviour](Assets/Images/ai-behaviour.png)
 
-
-## 📸 Screenshots
-
-### City Scene
-![City Scene](Assets/Images/city-scene.png)
-
-
-
-### Inventory & Crafting
-![Inventory System](Assets/Images/inventory.png)
-
-### AI Behaviour / Wildlife
-![AI Behaviour](Assets/Images/ai-behaviour.png)
 ---
 
 
