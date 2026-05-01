@@ -133,6 +133,3 @@ This project is part of an educational initiative. For contributions:
 
 
 *EcoGenesis - Restoring our world, one ecosystem at a time* 🌱
-
-
-im gonna add Assets/Images/ecogenesis-main-menu.png and Assets/Images/city-biome.png
